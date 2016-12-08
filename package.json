@@ -2,6 +2,10 @@
   "name": "gulp-snazzy-twig",
   "version": "0.0.4",
   "description": "JavaScript implantation of Skosh's Twig templating system for use with Gulp.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torann/gulp-snazzy-twig.git"
+  },
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
