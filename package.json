@@ -1,0 +1,30 @@
+{
+  "name": "gulp-snazzy-twig",
+  "version": "0.0.3",
+  "description": "JavaScript implantation of Skosh's Twig templating system for use with Gulp.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twigjs",
+    "skosh",
+    "twig",
+    "templating",
+    "gulp"
+  ],
+  "author": {
+    "name": "Daniel Stainback"
+  },
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/Torann/gulp-snazzy-twig/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "map-stream": "^0.1.0",
+    "replace-ext": "0.0.1",
+    "merge": "^1.2.0",
+    "twig": "0.10.0"
+  }
+}
