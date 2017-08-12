@@ -1,6 +1,6 @@
 {
   "name": "gulp-snazzy-twig",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "JavaScript implantation of Skosh's Twig templating system for use with Gulp.",
   "repository": {
     "type": "git",
